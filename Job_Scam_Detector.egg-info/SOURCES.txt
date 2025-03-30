@@ -1,0 +1,8 @@
+README.md
+setup.py
+Job_Scam_Detector.egg-info/PKG-INFO
+Job_Scam_Detector.egg-info/SOURCES.txt
+Job_Scam_Detector.egg-info/dependency_links.txt
+Job_Scam_Detector.egg-info/requires.txt
+Job_Scam_Detector.egg-info/top_level.txt
+src/__init__.py
