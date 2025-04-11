@@ -1,7 +1,7 @@
 # Job-Scam-Detection
 
 ## Project Overview
-This project aims to classify job postings as real or fake using machine learning techniques. Fake job postings have become a major issue, and this system helps detect fraudulent listings based on key features.
+This project aims to classify job postings as real or fake using machine learning techniques. Fake job postings have become a major issue, and this system helps detect fraudulent listings based on key features. 
 
 ## Dataset
 - The dataset used for this project contains job descriptions, company details, and other features.
